@@ -13,6 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "nuxt": "^1.0.0"
   },
   "devDependencies": {
@@ -23,9 +24,9 @@
     "eslint-plugin-vue": "^4.0.0"
   },
   "config": {
-    "nuxt":{
-      "host":"127.0.0.1",
-      "port":"1819"
+    "nuxt": {
+      "host": "127.0.0.1",
+      "port": "1819"
     }
   }
 }

@@ -1,5 +1,6 @@
 <template>
   <div>
+    <p>towmiya 默认模版设置测试</p>
     <nuxt/>
   </div>
 </template>

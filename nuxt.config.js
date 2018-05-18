@@ -47,4 +47,5 @@ module.exports = {
     }
   },
   css:['~assets/css/normailze.css'],
+  css:['~assets/css/main.css'],
 }

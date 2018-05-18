@@ -5,7 +5,11 @@
       <li><nuxt-link :to="{name:'index'}">HOME</nuxt-link></li>
       <li><nuxt-link :to="{name:'about'}">ABOUT</nuxt-link></li>
       <li><nuxt-link :to="{name:'news',params:{newsId:222}}">NEWS</nuxt-link></li>
+      <li><nuxt-link :to="{name:'asyncData'}">asyncData</nuxt-link></li>
     </ul>
+    <div>
+      <img src="~static/timg.jpg" alt="">
+    </div>
     </div>
   </section>
 </template>
